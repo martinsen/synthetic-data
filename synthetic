@@ -1,0 +1,912 @@
+[
+    {
+        "patient_id": "647f2706744996bde8c12d01",
+        "pc_1": 91.319,
+        "pc_2": 0.585,
+        "value": 2547.93,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "dolore deserunt occaecat velit exercitation sint tempor elit fugiat et laboris culpa quis anim elit ea proident aute ipsum veniam enim Lorem cupidatat ad incididunt incididunt nulla est consectetur reprehenderit cillum elit eiusmod velit aute culpa nisi ex magna qui et laborum nulla quis excepteur ea elit elit ex nisi elit et aute ex amet cupidatat exercitation occaecat irure voluptate voluptate minim labore in irure proident incididunt amet esse amet do pariatur cupidatat adipisicing magna ipsum do ex amet pariatur voluptate minim velit laboris commodo fugiat consectetur et labore ipsum cupidatat enim velit Lorem sit ad duis qui eu consequat aute irure enim tempor nisi eiusmod culpa laborum excepteur velit nisi est irure commodo ullamco esse mollit labore id eu dolor non do ipsum in aliqua irure laboris ex aliquip aute commodo magna velit fugiat laboris aute esse quis aliquip qui laboris nostrud occaecat consequat duis ipsum ullamco proident aliquip velit nisi eiusmod elit deserunt sunt exercitation nulla consectetur eu veniam Lorem Lorem laborum amet amet tempor nisi proident excepteur sit ea sunt minim eiusmod fugiat eiusmod irure excepteur esse officia elit commodo sit esse qui mollit nostrud velit Lorem ad nisi enim excepteur sit minim non laborum nisi anim",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "H14.9",
+            "B02.10",
+            "H14.9",
+            "N41",
+            "I10",
+            "I10",
+            "E74.1",
+            "A00.0"
+        ]
+    },
+    {
+        "patient_id": "647f27063bcef9f6c2cc6975",
+        "pc_1": 9.566,
+        "pc_2": 18.059,
+        "value": 9891.76,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "quis aute eu cupidatat eiusmod elit do cupidatat tempor incididunt veniam eiusmod quis dolor anim fugiat excepteur aliqua voluptate magna mollit eu reprehenderit est laboris irure Lorem et esse voluptate excepteur culpa non ullamco irure commodo do amet pariatur ex excepteur non consectetur eu magna proident in dolor reprehenderit duis eiusmod qui eiusmod excepteur aliqua cupidatat laboris ut nostrud incididunt dolore consequat laborum laboris ex commodo id est nisi commodo exercitation fugiat ea ipsum minim ea do elit irure occaecat id elit aliquip id cillum commodo eiusmod anim reprehenderit ex sit ea laboris sit labore quis laboris enim aute aute labore laborum voluptate eiusmod quis tempor et velit laborum do aliquip enim aliqua voluptate voluptate aliquip in anim sit in proident commodo aliqua anim sint amet voluptate minim eiusmod sunt labore eu velit eiusmod magna nulla fugiat sint dolor enim duis aliqua eu fugiat aliquip adipisicing nisi non qui proident labore dolor in qui pariatur fugiat laboris cupidatat aute sunt consequat non ex dolore culpa magna cupidatat aliquip ex ad quis dolor sint dolore in in esse id ut nisi proident anim velit quis excepteur Lorem magna enim ut ea adipisicing commodo consequat et do voluptate ut non duis qui",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "H14.9",
+            "H14.9",
+            "E74.1",
+            "E74.1",
+            "C03.40",
+            "C03.40",
+            "B02.10"
+        ]
+    },
+    {
+        "patient_id": "647f2706accca307b5b0829b",
+        "pc_1": 87.456,
+        "pc_2": 25.876,
+        "value": 6207.49,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "et sit laboris ad laboris deserunt velit aliquip ut amet esse aliqua incididunt est dolor amet nisi excepteur sunt labore et reprehenderit nisi culpa labore proident dolor commodo sit culpa sint commodo elit duis deserunt ad fugiat voluptate reprehenderit Lorem magna deserunt adipisicing labore proident aliqua id eu quis anim anim occaecat ex enim cupidatat aliqua aliqua dolore non nisi commodo aliqua commodo anim aliqua adipisicing laboris sunt consequat consequat est et in amet sit anim duis proident laboris sunt id adipisicing tempor est elit culpa sit aute reprehenderit ex excepteur labore culpa consectetur commodo sunt in esse ut ex dolor laboris et dolore labore ut nostrud ipsum laboris cupidatat nisi qui esse id tempor reprehenderit mollit labore cillum est anim in ea id qui voluptate excepteur reprehenderit id tempor exercitation ea eu incididunt ad dolore nostrud aliqua sint duis fugiat enim dolore nisi mollit aliqua ex nulla duis incididunt cillum dolor qui minim duis cillum amet exercitation et ex eiusmod fugiat nulla officia sint minim occaecat in enim sint aute adipisicing exercitation aute enim ex dolore laboris ad ut sint irure tempor pariatur velit anim eiusmod exercitation laborum et ex est eu commodo consequat reprehenderit ullamco aliquip aliqua magna",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "H14.9",
+            "D53.1A",
+            "G20.3B"
+        ]
+    },
+    {
+        "patient_id": "647f270691439cd9cde2d1dd",
+        "pc_1": 14.896,
+        "pc_2": 73.111,
+        "value": 3177.59,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "reprehenderit cillum qui cillum irure exercitation culpa labore proident aliquip dolore enim et qui deserunt enim sit qui aliqua aliqua do non ea ut magna magna aliqua velit sint aliqua duis duis nulla quis et ad occaecat aute minim quis amet quis laboris exercitation est laboris ullamco est ut veniam qui ea esse est sint ex pariatur esse amet anim quis cupidatat sint cupidatat enim cillum cillum excepteur nulla nulla reprehenderit ullamco labore eiusmod nulla in velit velit quis veniam Lorem magna nisi voluptate quis reprehenderit id et elit laborum veniam aliqua minim do ex occaecat excepteur irure culpa non qui exercitation qui consequat amet cillum anim do reprehenderit quis sunt quis esse commodo incididunt veniam sunt excepteur veniam amet tempor occaecat pariatur mollit in deserunt labore non duis voluptate non sunt do ut ea duis amet enim id tempor occaecat esse incididunt non eiusmod occaecat incididunt aute est esse ut non ullamco labore laboris laboris eiusmod commodo do sunt deserunt amet cillum adipisicing id sit minim do ut ad incididunt dolore laborum reprehenderit eiusmod incididunt duis Lorem non id ullamco id sit elit laboris ipsum esse laborum Lorem esse laboris nostrud commodo eu culpa sunt velit Lorem irure excepteur",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "E74.1",
+            "B02.10",
+            "G20.3B",
+            "N41",
+            "I10",
+            "B02.10",
+            "I10",
+            "A00.0",
+            "D53.1A",
+            "B02.10"
+        ]
+    },
+    {
+        "patient_id": "647f2706069df0de9d294588",
+        "pc_1": 28.967,
+        "pc_2": 16.509,
+        "value": 5752.55,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "esse ad pariatur nostrud ea mollit laborum culpa et aliquip et enim amet et eu minim proident officia officia laborum dolore culpa consectetur reprehenderit eiusmod adipisicing amet sint in consectetur nulla mollit officia enim voluptate pariatur voluptate ad mollit fugiat duis Lorem duis exercitation proident quis eu cillum consequat adipisicing et enim sint do occaecat labore consequat labore enim officia non anim aute proident incididunt consectetur nulla consequat eu ut fugiat deserunt ex mollit duis tempor est incididunt dolor ut cillum irure in in magna elit et ullamco ut pariatur sit deserunt sit qui fugiat non excepteur qui proident laborum aliqua incididunt minim ullamco dolore cupidatat anim amet excepteur culpa quis voluptate ut nisi consectetur commodo quis enim veniam deserunt ullamco est do voluptate amet quis sint esse cillum exercitation ut dolor quis fugiat velit aute et laborum magna amet exercitation dolore qui proident magna pariatur qui tempor cupidatat Lorem deserunt esse veniam non consectetur duis deserunt cillum culpa officia do amet ut mollit culpa laborum mollit eu labore qui culpa elit sit fugiat proident culpa sunt cupidatat veniam nostrud irure quis proident ad amet cillum qui sint nostrud sunt ea sunt ea ea minim eu minim occaecat adipisicing ea",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "D53.1A",
+            "I10",
+            "B02.10",
+            "E74.1"
+        ]
+    },
+    {
+        "patient_id": "647f2706988dc3a460b620e8",
+        "pc_1": 91.989,
+        "pc_2": 47.864,
+        "value": 8136.53,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "consectetur do ipsum eiusmod elit elit in reprehenderit anim laborum eu cupidatat ad quis veniam ipsum nisi adipisicing cupidatat do tempor sunt do reprehenderit commodo aute in qui amet in irure occaecat nulla aute tempor ipsum consequat excepteur quis sunt non ex culpa excepteur enim quis qui exercitation laboris reprehenderit ex commodo consequat et incididunt sint nostrud enim nostrud sint ullamco qui ipsum velit ipsum est dolore dolore commodo pariatur anim voluptate aliqua minim ex deserunt labore laborum cillum exercitation magna nostrud mollit reprehenderit ullamco excepteur nulla exercitation incididunt sit nostrud non tempor adipisicing fugiat nisi minim ex excepteur elit irure reprehenderit non ad anim veniam voluptate officia duis enim deserunt ipsum officia mollit cillum sint elit ut incididunt cupidatat voluptate eu aute ea in eu nulla non aliqua aute cupidatat officia officia Lorem non qui veniam aliqua tempor ex consectetur culpa excepteur excepteur reprehenderit proident minim labore culpa laborum cupidatat culpa id amet pariatur laboris consectetur laborum elit ea ullamco cupidatat aliqua voluptate magna duis tempor reprehenderit dolore est velit deserunt duis eiusmod nostrud culpa magna veniam incididunt veniam amet quis exercitation mollit ad proident laboris anim voluptate pariatur est incididunt culpa est nostrud laborum veniam qui elit consequat",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "I10",
+            "H14.9",
+            "H14.9",
+            "D53.1A",
+            "E74.1",
+            "G20.3B",
+            "B02.10",
+            "G20.3B"
+        ]
+    },
+    {
+        "patient_id": "647f27062d073f554e04495e",
+        "pc_1": 50.244,
+        "pc_2": 44.322,
+        "value": 7605.05,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "elit aliquip cillum duis officia culpa aliqua consequat voluptate tempor consequat culpa ullamco irure aute ad irure laboris occaecat in id cupidatat do consectetur aliquip pariatur eu qui non ex esse sint exercitation fugiat amet non consectetur nostrud ut dolore enim ad duis fugiat ipsum do est dolore nostrud minim excepteur enim proident magna elit aliqua minim voluptate reprehenderit dolor magna sint duis reprehenderit id nisi non pariatur mollit laborum ullamco velit pariatur minim sunt elit culpa aliquip nulla sunt commodo ut aliquip eiusmod ex voluptate laboris adipisicing ea laborum do in mollit amet officia fugiat laboris consectetur ex eiusmod ad et dolor do magna minim labore proident id Lorem voluptate quis ipsum est voluptate mollit ut culpa ipsum fugiat incididunt incididunt sint cupidatat aliqua esse deserunt in consequat deserunt esse commodo et nulla ea sint Lorem amet ipsum eu est non nostrud duis elit laboris ullamco ex id voluptate exercitation cillum eu pariatur irure consequat Lorem aliqua quis consequat qui laboris consequat eu pariatur sunt duis irure voluptate deserunt do amet aliquip pariatur nisi elit ea eu amet ad ea amet occaecat fugiat esse ut tempor fugiat est culpa irure nostrud veniam pariatur officia nulla irure mollit deserunt laborum",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "C03.40",
+            "A00.0",
+            "G20.3B",
+            "E74.1",
+            "B02.10",
+            "G20.3B"
+        ]
+    },
+    {
+        "patient_id": "647f27061e059e45b6088d41",
+        "pc_1": 51.993,
+        "pc_2": 97.751,
+        "value": 3794.03,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "enim ut eiusmod incididunt irure laborum laboris magna incididunt duis cillum fugiat proident culpa in aute eiusmod ea laborum nostrud do qui magna sit aliquip fugiat est ea et in do enim esse veniam eiusmod enim aliquip minim laborum do elit sit in voluptate non occaecat do minim minim incididunt Lorem velit cupidatat nulla nostrud et laborum qui nostrud aute sunt in ea magna elit eu labore commodo mollit tempor ut amet occaecat tempor est mollit labore cupidatat culpa sunt aliqua Lorem id culpa sint duis exercitation proident cillum reprehenderit laborum pariatur elit ex laborum esse eu et non et ex est laboris adipisicing aliqua commodo proident fugiat culpa laboris commodo sint reprehenderit nostrud minim culpa aute ex duis esse et dolore cupidatat eu ipsum sunt officia ea dolore cupidatat et culpa aute labore consectetur exercitation excepteur aute velit aliquip tempor occaecat qui qui deserunt Lorem Lorem velit esse minim sunt esse consequat ullamco nisi commodo ut minim tempor nostrud in magna laboris quis minim deserunt qui mollit sunt reprehenderit est in voluptate ad ipsum labore magna duis irure mollit irure anim do exercitation dolore officia in occaecat sint ex enim proident eiusmod ipsum id laborum adipisicing mollit sunt incididunt",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "E74.1",
+            "G20.3B",
+            "A00.0",
+            "A00.0",
+            "C03.40",
+            "G20.3B",
+            "C03.40"
+        ]
+    },
+    {
+        "patient_id": "647f270621bca6407391ab1a",
+        "pc_1": 50,
+        "pc_2": 50,
+        "value": 7692.17,
+        "is_index": true,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "nostrud esse reprehenderit minim minim esse ut magna consequat nostrud nulla aliquip culpa quis voluptate pariatur ex dolor quis minim occaecat dolor labore deserunt et consectetur ea ullamco elit Lorem esse consequat ullamco reprehenderit ea voluptate dolor aliquip quis excepteur fugiat occaecat esse velit incididunt magna sunt dolore deserunt fugiat mollit consectetur excepteur magna duis aliqua ad ex cillum irure aliquip occaecat incididunt nisi do qui id commodo culpa non ea sit magna officia esse nulla irure voluptate velit culpa minim nisi occaecat proident exercitation aliqua do culpa dolore incididunt voluptate ea et eu deserunt laboris labore in eiusmod occaecat amet sunt consectetur deserunt Lorem incididunt nulla dolore cillum non aliquip proident velit dolore cillum et veniam labore irure ex incididunt fugiat in eu laborum commodo aliqua elit nulla incididunt do commodo irure ex ipsum proident veniam duis commodo elit labore elit voluptate dolore qui cupidatat do consectetur ullamco reprehenderit sunt velit nisi deserunt Lorem labore veniam anim deserunt cupidatat exercitation sint irure reprehenderit non qui aute anim culpa reprehenderit ipsum occaecat non eu dolor veniam ut nostrud non voluptate ad culpa tempor enim aliqua laboris sunt ex reprehenderit cupidatat ex eiusmod tempor occaecat reprehenderit duis officia enim esse eu",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "G20.3B",
+            "A00.0",
+            "B02.10",
+            "A00.0",
+            "B02.10",
+            "N41",
+            "B02.10",
+            "C03.40"
+        ]
+    },
+    {
+        "patient_id": "647f2706e628a312caf32c24",
+        "pc_1": 18.227,
+        "pc_2": 38.686,
+        "value": 8474.87,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "qui labore sunt et sint excepteur id est adipisicing officia consequat incididunt do culpa excepteur sint aliquip eu est enim sunt adipisicing eiusmod deserunt et reprehenderit commodo quis ea occaecat id occaecat incididunt incididunt incididunt ad amet ipsum eu officia nisi occaecat est aute reprehenderit laborum esse pariatur eiusmod aliqua amet ad consectetur occaecat adipisicing ullamco eu sint fugiat aliqua magna irure consequat voluptate ad magna duis laboris duis ipsum irure tempor enim proident deserunt aute minim sit minim amet eiusmod excepteur excepteur ipsum ad aliquip sint culpa excepteur aliqua ut ut minim esse voluptate exercitation nostrud qui ex ullamco sit magna nostrud quis deserunt in aliqua et exercitation ea sint id Lorem quis excepteur dolor Lorem pariatur consequat proident non reprehenderit incididunt laboris ea sunt sunt magna excepteur ea laborum nostrud officia do dolore Lorem ipsum cupidatat anim nisi ut pariatur do quis reprehenderit adipisicing pariatur occaecat non do cillum officia veniam id ea eu laboris voluptate laborum commodo ullamco ex laboris in mollit eiusmod tempor in reprehenderit irure duis laboris irure sunt velit labore esse magna quis amet officia consequat eu laborum tempor enim eiusmod esse veniam anim adipisicing ex cupidatat commodo exercitation laborum do tempor esse adipisicing",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f27066fbee442ca10bc3b",
+        "pc_1": 94.184,
+        "pc_2": 20.396,
+        "value": 3395.84,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "consequat consequat consequat dolor nulla sit consequat sunt laboris ut velit deserunt adipisicing elit ipsum reprehenderit ipsum non consectetur eu nisi duis consectetur cillum laborum esse ipsum non ut culpa laboris ipsum laboris id consectetur irure fugiat et minim nulla aliquip dolor pariatur in duis ullamco mollit ut aliquip esse consectetur dolore proident anim tempor consequat minim sunt ad duis duis sunt tempor commodo esse irure officia deserunt cupidatat sit amet ut occaecat dolor eiusmod magna nostrud ad fugiat tempor cupidatat quis magna nulla magna aliqua ipsum sit adipisicing magna nulla nostrud voluptate magna incididunt exercitation ea ullamco occaecat officia culpa amet reprehenderit dolore sint aliquip veniam laboris ex occaecat sit proident sunt eu ullamco dolore duis voluptate exercitation consequat eu mollit deserunt est proident quis excepteur adipisicing ut Lorem aliqua proident aliqua eu cupidatat elit excepteur officia cupidatat nostrud culpa duis Lorem id aliquip sit et voluptate sunt in est laborum irure ut velit et duis officia excepteur cupidatat nulla aliqua cillum dolore magna cillum aliquip quis mollit Lorem laborum culpa anim veniam dolor ea eiusmod proident Lorem in anim nisi labore irure in excepteur velit fugiat mollit elit elit in irure incididunt enim aliquip ullamco fugiat exercitation in",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "D53.1A",
+            "C03.40",
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f2706a9cb29e542908705",
+        "pc_1": 74.684,
+        "pc_2": 69.287,
+        "value": 6599.34,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "fugiat reprehenderit deserunt tempor exercitation dolor culpa cupidatat eu nisi quis non exercitation reprehenderit culpa tempor aliqua sit nostrud est id consectetur pariatur Lorem ad duis ullamco est esse amet nulla ullamco fugiat nostrud fugiat esse non culpa tempor qui dolore minim cupidatat aliqua mollit aute velit dolor excepteur eu nisi consectetur laborum tempor ex qui sit aute adipisicing nostrud labore tempor velit adipisicing minim aute aliquip veniam sunt qui excepteur ipsum ipsum commodo tempor laboris pariatur deserunt adipisicing est proident ex sunt magna consequat veniam esse eiusmod esse mollit tempor nisi veniam commodo nisi anim dolore tempor sint dolore velit sint consequat ea cupidatat adipisicing velit exercitation magna id adipisicing ut nostrud sint do ex ut aute nostrud proident ut labore dolor aute est nisi nostrud id sit Lorem ullamco mollit enim velit do in et proident nulla veniam ut ad ut incididunt est Lorem sit fugiat consectetur laboris minim do aute eu excepteur veniam incididunt tempor nisi id labore dolor do qui nulla magna ullamco amet reprehenderit consectetur dolore Lorem excepteur commodo nostrud in id mollit nulla ut nisi nisi mollit dolor nostrud sit quis magna et non proident anim duis dolore ullamco eu id nostrud amet sunt",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "A00.0",
+            "N41",
+            "H14.9",
+            "H14.9",
+            "G20.3B",
+            "I10",
+            "A00.0",
+            "B02.10"
+        ]
+    },
+    {
+        "patient_id": "647f27069e15bc5d3ab67e9e",
+        "pc_1": 94.091,
+        "pc_2": 20.825,
+        "value": 5325.79,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "sint dolore non commodo non laborum aliqua do magna nisi sint dolore commodo aliquip voluptate et ex commodo amet dolor ipsum aliquip irure nulla reprehenderit dolore et consectetur esse nulla exercitation adipisicing cupidatat incididunt Lorem ut minim magna proident irure nostrud ipsum sunt sint officia do consectetur anim dolore officia do adipisicing consectetur minim commodo pariatur ad duis enim dolor amet et sint anim sunt occaecat nostrud esse dolore proident aliquip eu enim aute aliquip voluptate exercitation pariatur sunt enim labore voluptate officia non cupidatat velit tempor eu deserunt duis ipsum laboris sint dolor eu nostrud quis non elit ea tempor occaecat labore fugiat esse quis amet mollit duis minim in qui aliqua nostrud enim officia nulla esse ipsum ex consequat quis nostrud duis ullamco eiusmod cupidatat magna Lorem in Lorem ad tempor quis tempor elit pariatur enim pariatur non consectetur ipsum elit ullamco labore eiusmod id incididunt amet incididunt aliquip et nulla nisi labore velit dolor incididunt ipsum nostrud anim enim veniam esse enim minim quis qui fugiat adipisicing tempor qui ex tempor voluptate ipsum duis cillum reprehenderit deserunt adipisicing nulla excepteur elit quis non labore occaecat veniam dolor ea officia id non id consequat enim aliquip labore qui",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "H14.9",
+            "H14.9",
+            "B02.10",
+            "D53.1A",
+            "B02.10",
+            "E74.1"
+        ]
+    },
+    {
+        "patient_id": "647f27061fd7977fffd97917",
+        "pc_1": 91.562,
+        "pc_2": 61.282,
+        "value": 5674.81,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "aliquip eiusmod tempor ipsum in proident velit culpa id cupidatat Lorem deserunt sit proident eu qui aliquip sint laborum amet consectetur amet voluptate laborum esse laborum enim nostrud Lorem cillum commodo consectetur officia cillum ex anim cillum adipisicing est occaecat quis dolor laborum qui aliquip cillum ad proident Lorem duis dolore labore anim ut incididunt velit magna velit veniam dolor irure nulla excepteur ullamco velit nostrud ex nulla do velit aute nostrud occaecat consectetur adipisicing excepteur sunt laborum amet elit irure eiusmod sit laboris minim Lorem minim officia voluptate deserunt anim culpa cillum magna quis veniam enim ad exercitation et duis incididunt exercitation officia et irure sint id deserunt ut enim amet ea mollit irure id in magna ea fugiat laboris culpa incididunt ut nostrud deserunt minim ut aliquip nostrud velit aute exercitation eiusmod excepteur mollit labore dolor sunt aliquip qui laboris cupidatat enim non amet reprehenderit ea voluptate nostrud labore laborum sint anim aliqua magna enim aute exercitation aliquip officia minim mollit nostrud proident sunt sint qui culpa fugiat ipsum nisi ea sunt consequat fugiat id ut voluptate ea ex magna exercitation duis occaecat duis esse aliqua tempor magna nostrud magna esse eu ut dolor aute nulla consectetur laboris",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "H14.9",
+            "I10",
+            "C03.40",
+            "H14.9",
+            "A00.0",
+            "N41",
+            "G20.3B",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f2706fdcba497e57b2921",
+        "pc_1": 89.171,
+        "pc_2": 96.964,
+        "value": 520.39,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "anim quis sint nulla incididunt magna et duis ut eiusmod tempor ipsum irure cillum ex mollit incididunt non tempor commodo velit ipsum mollit qui sint officia laborum sint consequat ea in ea occaecat voluptate tempor sit duis dolor excepteur eiusmod non magna ullamco ea qui consectetur ea consequat in magna voluptate ex sit ut dolore sunt consectetur in fugiat consectetur officia veniam ex dolore aute pariatur deserunt irure anim duis excepteur et ad laborum pariatur occaecat reprehenderit velit incididunt irure do aute veniam anim culpa exercitation laborum deserunt voluptate nostrud minim nisi dolore minim eiusmod sint ullamco excepteur reprehenderit sunt magna quis enim reprehenderit labore ex nostrud et nostrud mollit minim voluptate culpa veniam excepteur tempor ex nulla incididunt ea velit consectetur cillum commodo fugiat et do velit qui cillum elit id incididunt sunt consequat eiusmod adipisicing voluptate quis magna dolor proident exercitation quis nostrud ullamco quis adipisicing excepteur tempor cillum elit labore laborum tempor commodo nisi occaecat voluptate sint officia cupidatat est anim nulla consectetur consequat ut dolore ipsum magna ullamco laboris quis officia velit sint magna excepteur eu enim eu veniam veniam reprehenderit est ex consectetur laboris eiusmod esse velit pariatur officia dolore do exercitation exercitation nulla aute",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "E74.1",
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f2706c631110a922d36af",
+        "pc_1": 19.965,
+        "pc_2": 77.767,
+        "value": 784.69,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "qui est tempor consectetur magna qui exercitation est proident nulla aliqua dolor est eu esse elit Lorem amet commodo dolor duis veniam deserunt voluptate tempor proident laborum officia laborum aliquip sint aliquip non non deserunt anim enim ad Lorem laborum mollit cupidatat incididunt cupidatat do tempor veniam nulla occaecat sint tempor in pariatur et cillum incididunt mollit dolore magna ad aliquip mollit exercitation Lorem sint elit nostrud minim elit ex enim consectetur aliquip ex officia qui irure ea est exercitation pariatur commodo duis nulla et laboris duis aute sunt aliquip incididunt sint dolor ex aliquip sunt ex enim cupidatat pariatur nisi elit qui irure adipisicing occaecat irure mollit ad non nisi proident minim excepteur sunt nostrud velit in nisi Lorem mollit proident qui velit sit deserunt tempor esse minim laboris proident magna officia sit magna aliquip culpa aliquip proident eu do ad enim aliquip cillum ea officia nulla consectetur enim nostrud magna eu adipisicing consectetur non do officia reprehenderit nostrud occaecat eiusmod Lorem elit consequat Lorem ullamco pariatur eu dolor reprehenderit nulla aute mollit ut cupidatat proident cupidatat et aliquip duis pariatur sint incididunt laboris eiusmod aliqua aliqua ea exercitation enim reprehenderit officia occaecat culpa ea ea irure aliqua ex",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "G20.3B"
+        ]
+    },
+    {
+        "patient_id": "647f27062f2941eff4f44d40",
+        "pc_1": 70.602,
+        "pc_2": 40.784,
+        "value": 2137.73,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "et officia duis aliqua quis quis ad aliqua occaecat sunt excepteur exercitation commodo voluptate nisi exercitation nulla commodo mollit culpa elit occaecat cupidatat culpa consequat officia est commodo deserunt aute dolor nulla ex ad mollit duis voluptate culpa elit eu duis elit sint adipisicing aliquip eiusmod magna proident qui aute anim sint reprehenderit do do cillum esse dolor do reprehenderit aliquip enim reprehenderit voluptate non esse Lorem aliqua nostrud aute ut adipisicing pariatur laboris non consequat cillum reprehenderit fugiat consectetur sint pariatur id do ullamco occaecat tempor dolor est esse et irure incididunt sunt sit aliquip laboris officia nostrud pariatur commodo eiusmod nulla consequat fugiat incididunt cupidatat duis esse tempor aliqua id culpa ex sit cupidatat occaecat ut minim adipisicing laboris duis ex consectetur aliqua id exercitation est id id labore tempor labore ullamco aliquip in ullamco consectetur commodo eu dolor ut aliquip occaecat irure Lorem eiusmod consequat ea cupidatat aute nulla ex non et commodo ut duis ea aute ipsum culpa qui nulla id velit nisi deserunt fugiat qui excepteur reprehenderit fugiat dolor occaecat aliquip ipsum officia est voluptate tempor irure anim proident nisi officia cupidatat occaecat proident amet tempor mollit sit elit anim proident pariatur laborum non ad",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "A00.0",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f270694b56b6992909b74",
+        "pc_1": 62.209,
+        "pc_2": 22.895,
+        "value": 9918.65,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "voluptate amet commodo id laboris quis nulla consectetur esse veniam nostrud enim irure ad sit nostrud duis minim proident in duis ipsum incididunt Lorem veniam consectetur ipsum esse proident sint tempor ea qui non consectetur dolor ex ullamco sit laboris culpa id aliqua cupidatat culpa esse sunt nisi amet excepteur proident dolor voluptate reprehenderit consequat elit nulla do voluptate nulla minim adipisicing aliqua nisi elit ad sint dolore fugiat quis dolore irure reprehenderit aute consequat est enim mollit aliquip aliqua laboris aliqua duis sunt eiusmod aliqua ut incididunt sint esse non aliquip elit ad quis voluptate ea occaecat cillum velit esse dolor cillum sint est veniam et enim esse veniam nisi qui veniam pariatur nulla occaecat quis aliquip sunt reprehenderit do et sit ipsum non esse ipsum sunt amet voluptate enim laboris aliquip ullamco enim anim ea in commodo occaecat aute incididunt mollit aute ullamco anim incididunt est tempor in aliquip esse id voluptate commodo ipsum in occaecat nulla ad irure non enim commodo pariatur est laborum nostrud laboris enim consequat occaecat incididunt aliquip elit sit pariatur excepteur nostrud sit ut magna ipsum dolore quis minim incididunt sit eu excepteur nostrud laboris eu consequat mollit ipsum aute nostrud adipisicing esse",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "D53.1A",
+            "G20.3B",
+            "N41",
+            "G20.3B",
+            "E74.1",
+            "A00.0"
+        ]
+    },
+    {
+        "patient_id": "647f2706566683238a665712",
+        "pc_1": 1.437,
+        "pc_2": 78.206,
+        "value": 4018.39,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "ex ipsum nostrud in aliqua aliqua aute Lorem magna culpa velit duis eu commodo est voluptate dolore enim officia dolore et veniam aliquip commodo labore duis sunt cupidatat nulla incididunt reprehenderit nisi nostrud et qui amet exercitation nostrud dolore anim enim minim culpa adipisicing ut magna consectetur eiusmod cillum est tempor aliquip aute qui id quis occaecat magna non cupidatat consequat sint sint veniam voluptate dolor exercitation commodo id cillum tempor ea ea voluptate cupidatat dolore enim sit non culpa cupidatat sit aliqua voluptate Lorem anim irure reprehenderit sunt elit pariatur ullamco et ad non occaecat mollit ad labore adipisicing aliqua irure non duis ea culpa pariatur nisi ea non non elit commodo aliquip cupidatat pariatur minim sint enim deserunt ad do Lorem duis sunt sint sunt nulla consequat consequat quis qui ut enim officia laboris Lorem proident sint esse cillum culpa ad commodo dolore reprehenderit esse tempor consectetur incididunt nostrud eiusmod aute laboris incididunt do aliquip quis duis fugiat et consectetur do sunt officia nostrud id culpa aliqua deserunt anim dolor aliquip pariatur occaecat id quis et aliqua et fugiat cillum ullamco sint fugiat dolore excepteur fugiat fugiat non ex occaecat magna voluptate cupidatat fugiat consectetur et sit irure",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "I10",
+            "C03.40",
+            "E74.1",
+            "A00.0"
+        ]
+    },
+    {
+        "patient_id": "647f270621cc954ce6f2d63c",
+        "pc_1": 90.987,
+        "pc_2": 88.839,
+        "value": 782.79,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "laborum enim fugiat anim sit exercitation culpa irure elit nostrud dolore ex commodo esse nulla exercitation occaecat cillum dolor laborum laboris anim commodo sunt cillum magna ipsum culpa voluptate elit anim amet ea enim ut voluptate amet quis velit do officia deserunt qui deserunt quis laborum elit culpa in ea laborum fugiat pariatur cillum ullamco exercitation id exercitation magna amet sint aliqua commodo laborum ex culpa ea culpa id minim mollit sit consequat sint fugiat ex pariatur cillum ut excepteur culpa consequat proident ullamco tempor consequat laboris anim velit sit esse incididunt excepteur fugiat officia culpa aliquip in voluptate dolor nisi amet officia do amet voluptate aliquip ut consequat laboris aliquip ullamco Lorem cupidatat elit exercitation fugiat et consectetur enim ea aliqua eiusmod nostrud tempor non ea aute in consectetur tempor nisi eiusmod nostrud in in officia adipisicing et fugiat proident ea tempor est non nostrud Lorem esse ut irure aliqua velit ipsum cupidatat do fugiat irure fugiat aute eu ipsum consectetur et consectetur mollit non cupidatat dolor est dolor ea excepteur aute sunt veniam velit velit nostrud sit cupidatat exercitation irure id nostrud voluptate sunt enim ipsum esse magna non magna eiusmod exercitation est adipisicing non duis sint incididunt",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "A00.0",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f2706b3965bd31fcda377",
+        "pc_1": 54.285,
+        "pc_2": 80.498,
+        "value": 1525.77,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "occaecat excepteur consequat amet ad do nisi nostrud do cupidatat qui ut amet laborum elit laborum amet eiusmod commodo nisi tempor eu mollit enim occaecat veniam proident nostrud esse ipsum veniam ea ex labore ad ullamco deserunt nisi voluptate officia eu exercitation elit ex cillum esse quis aliqua aute elit deserunt proident ipsum excepteur magna sint aliqua exercitation ut consectetur dolor et ad eiusmod dolore incididunt minim ea in dolore officia magna reprehenderit sunt elit consectetur laborum tempor do exercitation dolore do nostrud fugiat elit minim cupidatat nulla ullamco Lorem Lorem sunt veniam cupidatat dolore Lorem enim exercitation occaecat irure proident id aute enim fugiat duis ea ea occaecat consectetur ad non ullamco incididunt cillum voluptate anim in veniam sunt non id aliquip ad labore incididunt duis dolore do in adipisicing veniam culpa incididunt Lorem adipisicing minim cillum ex aute esse eiusmod in excepteur ea cupidatat reprehenderit velit laboris elit do eu qui voluptate eu minim cupidatat esse pariatur non incididunt quis consequat incididunt sunt officia labore exercitation id aliqua ullamco esse ex id est ad sunt cillum non quis consectetur qui anim nostrud adipisicing aliquip consectetur culpa aute Lorem ullamco sunt aliqua irure dolor dolore non enim veniam irure",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "C03.40"
+        ]
+    },
+    {
+        "patient_id": "647f27062d2fef1b67cf0d04",
+        "pc_1": 98.139,
+        "pc_2": 59.813,
+        "value": 9548.61,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "ut labore voluptate pariatur incididunt est nisi nulla deserunt laboris fugiat nostrud amet culpa dolore aliqua consequat ea sit ex laborum laborum magna anim anim duis deserunt et qui proident labore fugiat ipsum commodo deserunt labore nulla non magna voluptate ex non consectetur laborum enim laborum excepteur ea tempor aliquip aute nulla laboris do anim ut sint dolor esse excepteur labore est mollit mollit duis consequat voluptate in veniam amet minim nostrud velit aliqua pariatur officia est minim est laborum magna ipsum irure minim pariatur sit ad quis culpa cillum laborum laborum amet qui aute ullamco eiusmod dolor in reprehenderit culpa commodo commodo veniam non excepteur non fugiat veniam aliquip veniam reprehenderit esse officia est duis duis velit cillum et nulla aute anim cillum duis laborum deserunt sunt consequat cillum culpa voluptate velit ex ex nulla laborum nulla adipisicing velit voluptate veniam reprehenderit ex duis labore cupidatat sit aliquip cupidatat voluptate cupidatat tempor do nostrud veniam ullamco laboris culpa ut sunt adipisicing consequat culpa nisi ipsum deserunt eiusmod ad ex ullamco est dolor laboris elit excepteur dolore adipisicing minim exercitation proident voluptate irure voluptate nisi aute qui ipsum esse tempor eu incididunt voluptate eu cillum mollit enim laborum culpa irure",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "D53.1A",
+            "C03.40",
+            "D53.1A",
+            "D53.1A",
+            "D53.1A",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f2706e0115588ac8e943a",
+        "pc_1": 17.402,
+        "pc_2": 10.565,
+        "value": 3149.66,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "veniam laborum officia aliqua cillum Lorem mollit nisi ex minim consequat non nostrud deserunt consectetur est occaecat et aliqua velit ut aliquip in laborum occaecat sit ut aliqua id veniam est officia proident enim eiusmod reprehenderit nulla sunt tempor irure deserunt dolore id ut dolor dolor officia officia reprehenderit cillum ad ex aliqua id et laboris proident velit laboris sunt laboris ex officia aliquip labore laborum enim laborum commodo duis commodo tempor consectetur magna dolore ut voluptate fugiat et quis sit ut aute fugiat duis non sint laboris aliqua do anim incididunt non commodo cupidatat Lorem elit laborum aliquip pariatur ea est nisi commodo in fugiat minim ut nulla consectetur nostrud commodo eu consectetur veniam excepteur anim incididunt ullamco ex non sit fugiat excepteur ea ullamco tempor dolor nulla cupidatat est esse do consectetur duis nostrud laboris elit ut mollit eiusmod amet duis non consequat enim nulla eiusmod est irure eiusmod amet tempor incididunt deserunt in dolore amet eu exercitation ut Lorem aliquip amet aliqua elit occaecat reprehenderit ex adipisicing sunt fugiat occaecat ea magna aliquip ex qui anim incididunt consequat nostrud anim sit aliqua nulla aute elit tempor magna id est in duis culpa incididunt id nulla Lorem laborum",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "G20.3B",
+            "H14.9",
+            "G20.3B",
+            "G20.3B",
+            "N41",
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f270600ba0376d0ed06d7",
+        "pc_1": 83.321,
+        "pc_2": 2.052,
+        "value": 2711.36,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "sunt occaecat eu pariatur in dolore aute et cupidatat reprehenderit consectetur ullamco aliqua sint nostrud in in minim fugiat nostrud nostrud ad non voluptate exercitation ea culpa cupidatat ullamco nostrud do laboris laborum laborum occaecat amet elit non ut nostrud dolor reprehenderit labore Lorem ut id irure officia velit magna mollit non esse ullamco ut pariatur aute ea amet ad deserunt nulla velit Lorem labore quis sunt esse veniam reprehenderit fugiat eiusmod dolor amet sit irure deserunt magna exercitation magna dolore mollit aliquip in voluptate dolor sint voluptate fugiat culpa minim quis sit adipisicing sunt Lorem occaecat reprehenderit culpa ullamco qui deserunt reprehenderit aliqua consequat fugiat incididunt minim Lorem magna adipisicing pariatur id commodo veniam sit est nisi sit ea id eiusmod dolore quis ea anim nulla magna nostrud Lorem ex fugiat non deserunt culpa eiusmod ea reprehenderit ipsum ad id Lorem id proident enim minim occaecat nulla tempor consequat ea ullamco quis sit ut non eiusmod officia enim dolor deserunt officia nostrud dolore minim veniam dolore non adipisicing est culpa laboris labore deserunt proident qui commodo ut minim duis velit reprehenderit tempor veniam sint aliquip cupidatat ullamco sunt fugiat id fugiat id id incididunt aliqua dolore duis culpa anim",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "I10",
+            "C03.40",
+            "E74.1",
+            "H14.9",
+            "G20.3B",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f2706fe1d404d2ec5edbf",
+        "pc_1": 22.515,
+        "pc_2": 43.042,
+        "value": 9741.15,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "commodo eu mollit exercitation eu adipisicing commodo commodo ea ut fugiat ad aute in adipisicing cupidatat commodo sunt ex aute ea non culpa nulla fugiat non cillum tempor cupidatat sit fugiat duis consectetur in culpa ullamco Lorem deserunt aliquip duis aute mollit laboris cupidatat pariatur excepteur velit et anim ex ex aute tempor officia anim duis est sit labore fugiat labore voluptate fugiat et officia fugiat sunt id nulla culpa laboris magna labore do commodo qui non exercitation tempor consequat do consectetur nisi labore ea reprehenderit quis labore aute quis laboris qui elit nulla aute et enim cupidatat deserunt voluptate nulla aute amet eiusmod anim nulla qui non est ullamco cillum ad id excepteur ipsum velit amet non anim commodo incididunt nostrud eu occaecat id cupidatat elit mollit irure eu voluptate cupidatat sit nulla velit cillum est quis ad voluptate labore labore elit ut deserunt culpa aute occaecat sit in id et elit aliqua adipisicing aliqua occaecat pariatur in labore ut culpa velit est laboris ad Lorem cupidatat culpa velit tempor reprehenderit qui quis eiusmod sit sint incididunt ut est ipsum eu veniam do cillum aute aliqua quis sint veniam commodo ex nulla est cillum consectetur ipsum labore deserunt minim",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "N41",
+            "G20.3B",
+            "A00.0",
+            "E74.1",
+            "N41",
+            "C03.40",
+            "G20.3B",
+            "N41",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f270662b11ffe65e0f0ce",
+        "pc_1": 7.361,
+        "pc_2": 57.607,
+        "value": 9073.93,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "laboris occaecat magna ad anim sunt laboris voluptate pariatur consectetur elit do sint irure culpa amet officia id incididunt veniam irure velit enim voluptate veniam ea elit minim dolor sit ex cillum ex duis ea anim exercitation duis laboris qui eu nisi eu mollit dolore non ut nostrud esse ex pariatur ea amet duis veniam eu anim enim et eiusmod proident non est aliquip dolor eu in laboris ea velit id sunt fugiat pariatur dolor non elit exercitation enim aute veniam nulla aliquip excepteur ut adipisicing veniam est officia magna Lorem magna enim adipisicing excepteur sunt ad exercitation ullamco non occaecat duis qui deserunt eiusmod ad officia esse aliquip culpa sunt culpa veniam ullamco dolor ullamco incididunt veniam ex culpa pariatur ut consectetur elit est aute incididunt minim esse proident ex labore esse elit nisi do elit adipisicing enim labore nulla non ex laborum dolor anim ex duis elit voluptate velit eu voluptate velit laboris proident velit occaecat non ea deserunt consequat pariatur sunt labore amet duis culpa voluptate est eiusmod Lorem elit sunt pariatur nostrud non excepteur proident culpa consectetur ex nulla qui do anim excepteur dolore consectetur anim pariatur eiusmod Lorem esse enim fugiat laboris adipisicing officia eiusmod",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "E74.1",
+            "C03.40",
+            "A00.0",
+            "N41",
+            "N41",
+            "I10",
+            "D53.1A",
+            "H14.9",
+            "E74.1",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f270645117f9d1db7c89f",
+        "pc_1": 75.831,
+        "pc_2": 81.379,
+        "value": 640.42,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "est nisi ea aliqua non proident dolor voluptate enim irure sunt exercitation do quis ipsum sint sit proident Lorem aute duis proident ut exercitation magna cupidatat fugiat ex ad do exercitation deserunt non ut magna incididunt sit adipisicing culpa adipisicing dolor exercitation pariatur ipsum culpa do consectetur esse in excepteur eiusmod amet irure irure excepteur dolor deserunt aliqua officia velit ipsum enim ad fugiat est in amet deserunt voluptate quis ea eiusmod in nostrud reprehenderit esse tempor ex nisi qui incididunt aute culpa id quis ex sint cupidatat tempor laboris ut cillum ad ullamco consectetur mollit aute veniam minim velit ullamco exercitation esse eiusmod et mollit nostrud cupidatat adipisicing deserunt quis nulla enim sit deserunt deserunt tempor amet quis pariatur proident irure occaecat consequat officia tempor voluptate consequat sunt ea officia Lorem proident duis non anim voluptate do consequat nulla aliquip cupidatat cupidatat reprehenderit aliquip enim aliqua veniam officia magna ullamco id irure adipisicing ipsum quis deserunt anim aliquip nostrud sit in aliqua irure elit qui exercitation adipisicing eiusmod magna culpa amet nostrud magna eu sint quis irure ipsum voluptate consequat ex id esse anim minim est deserunt anim elit ex ullamco mollit commodo in dolor proident ea sunt ea",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "I10",
+            "B02.10",
+            "D53.1A",
+            "G20.3B",
+            "A00.0",
+            "G20.3B",
+            "N41",
+            "C03.40",
+            "B02.10"
+        ]
+    },
+    {
+        "patient_id": "647f2706924ecec4f5a3f7ad",
+        "pc_1": 43.959,
+        "pc_2": 5.291,
+        "value": 5375.69,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "do enim reprehenderit laboris proident in id commodo Lorem laboris ut officia reprehenderit aliqua nulla dolore mollit ea officia Lorem voluptate aute mollit anim enim sint irure voluptate amet nostrud pariatur ex anim sunt elit sint tempor esse incididunt anim nostrud officia incididunt nulla sunt amet consectetur in aliquip ex laborum ut est dolore nostrud ut ipsum sunt ea laborum nisi cillum duis aliqua nisi Lorem irure reprehenderit ut mollit ad occaecat eiusmod ea reprehenderit aliqua mollit id eu quis esse excepteur et elit irure ullamco culpa anim incididunt aliqua labore aliquip sit irure Lorem adipisicing est commodo id in cillum est do dolore nisi ad non aliqua nisi enim nostrud ex sit sit elit consequat consequat incididunt cillum eiusmod anim do nulla et sunt nostrud cupidatat laborum irure aliquip esse excepteur aliquip aute culpa officia irure eiusmod labore reprehenderit id commodo irure nisi sint ipsum esse ullamco do laborum minim elit mollit voluptate in qui anim fugiat officia pariatur dolor enim in occaecat sint nisi magna deserunt ea commodo excepteur Lorem aliqua anim id tempor sint magna duis anim eu reprehenderit consectetur cillum irure in sunt duis laborum nisi id consequat tempor ipsum nulla veniam aliquip labore non eu",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "C03.40",
+            "A00.0",
+            "G20.3B",
+            "C03.40",
+            "N41",
+            "E74.1"
+        ]
+    },
+    {
+        "patient_id": "647f270675e1756548870524",
+        "pc_1": 15.255,
+        "pc_2": 63.513,
+        "value": 3470.31,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "dolore ea magna nulla velit esse aliqua cillum incididunt deserunt voluptate aliqua ex ipsum laborum aliqua eiusmod do dolor ea qui proident labore cupidatat esse occaecat laborum tempor consectetur eu qui aute laborum aliquip dolore deserunt proident voluptate pariatur laboris do aliquip adipisicing ipsum anim officia pariatur ut anim velit incididunt adipisicing Lorem proident elit mollit duis duis consectetur in ut irure aliquip qui nostrud elit id excepteur sunt ut incididunt non velit aute nulla proident reprehenderit quis tempor aute officia adipisicing eu in enim mollit ex amet in proident nulla ad sit qui incididunt officia proident esse velit nostrud labore id non nulla laborum mollit aliqua nostrud culpa eu est commodo do nisi laboris tempor enim adipisicing in est elit anim nostrud quis veniam labore reprehenderit irure est cupidatat non laborum ipsum est exercitation mollit quis do veniam anim reprehenderit ullamco sunt exercitation Lorem fugiat aliqua sit nostrud magna fugiat elit laborum voluptate anim nisi nisi nulla adipisicing exercitation nostrud proident tempor et eu consectetur consequat ea cupidatat veniam aute laboris Lorem mollit elit et enim culpa ut aliqua duis voluptate reprehenderit amet reprehenderit est et veniam incididunt ea dolor officia aliqua ut ipsum irure Lorem ullamco eu pariatur",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "I10",
+            "N41",
+            "N41",
+            "D53.1A",
+            "B02.10",
+            "H14.9",
+            "D53.1A",
+            "N41",
+            "N41",
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f27060b11adeebe29157d",
+        "pc_1": 17.893,
+        "pc_2": 61.995,
+        "value": 5850.07,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "esse ex laborum eiusmod tempor in adipisicing enim veniam tempor commodo culpa incididunt elit consequat occaecat cillum minim fugiat Lorem do nostrud exercitation ad magna nulla amet proident ipsum ipsum proident esse nulla eu elit et excepteur anim quis eu sit ex laborum mollit do aliqua nulla officia ipsum irure laboris excepteur consectetur laboris pariatur irure et duis fugiat ipsum officia consectetur sint id est veniam nulla culpa veniam reprehenderit labore esse incididunt esse adipisicing dolore dolore nulla nulla velit excepteur laboris ullamco adipisicing sunt occaecat fugiat non fugiat duis commodo ad velit sunt ad sint occaecat occaecat in aliquip excepteur id nisi mollit non sit sunt ipsum deserunt id aliquip velit aliqua tempor est qui deserunt veniam cupidatat id excepteur amet fugiat ut quis elit ex voluptate culpa Lorem aute dolor minim pariatur sint culpa fugiat reprehenderit eiusmod Lorem nostrud pariatur nulla labore anim id cillum minim fugiat Lorem consectetur excepteur eu est enim aute commodo Lorem esse laborum tempor officia veniam cupidatat cupidatat adipisicing occaecat nulla ut nulla anim enim quis in eiusmod aute ut pariatur culpa aliqua irure officia duis cupidatat esse consequat enim nisi in officia ad laborum Lorem aliqua in enim ex culpa officia aliquip",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "E74.1",
+            "I10",
+            "N41",
+            "D53.1A",
+            "B02.10",
+            "B02.10",
+            "N41",
+            "N41",
+            "C03.40",
+            "C03.40"
+        ]
+    },
+    {
+        "patient_id": "647f2706072807cc8a50136d",
+        "pc_1": 27.992,
+        "pc_2": 13.283,
+        "value": 5690.49,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "minim elit elit aute consequat ea deserunt sint pariatur tempor reprehenderit ullamco tempor eu sit magna culpa ullamco nulla ad nulla ex laboris cillum voluptate non velit in nisi voluptate sint mollit do nulla deserunt minim consequat adipisicing magna ad magna reprehenderit ut velit cupidatat ullamco veniam incididunt consectetur laborum duis sint aliquip esse occaecat sunt officia occaecat sunt eiusmod occaecat cillum nostrud enim quis voluptate non nisi excepteur exercitation consectetur laborum fugiat et eiusmod elit nostrud eiusmod do sunt est sunt anim cillum laborum cupidatat culpa consectetur pariatur nulla laboris anim esse anim magna ullamco adipisicing velit laborum dolore reprehenderit nisi do minim ad velit dolore nostrud minim culpa deserunt aute cupidatat nisi ut labore incididunt qui irure cupidatat consequat aliquip sunt sint proident minim occaecat aliquip qui consequat deserunt consequat voluptate ex aliqua nostrud sint duis ipsum cupidatat non anim magna enim laborum aliquip cupidatat pariatur amet pariatur pariatur aliqua magna enim commodo labore in ullamco ex sint sunt aute deserunt aliqua ullamco cillum ad pariatur nostrud sit officia laboris consectetur labore esse eiusmod voluptate proident commodo sunt in non adipisicing nostrud commodo nostrud mollit quis eu nulla fugiat enim Lorem adipisicing dolore aliquip cillum ipsum ea aute",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "A00.0",
+            "A00.0",
+            "C03.40",
+            "B02.10",
+            "C03.40",
+            "A00.0",
+            "G20.3B"
+        ]
+    },
+    {
+        "patient_id": "647f2706dff3173331852550",
+        "pc_1": 82.288,
+        "pc_2": 81.784,
+        "value": 7916.79,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "in dolore in mollit fugiat minim in nulla nostrud officia dolor irure culpa incididunt laborum commodo mollit culpa non officia est voluptate dolore id nisi ullamco exercitation labore non nostrud aliquip deserunt fugiat ea pariatur dolore nostrud est sunt est sit laborum elit qui id id velit laborum exercitation sit sint duis amet non consequat ad dolor ex ex irure aute deserunt nisi consectetur laborum deserunt commodo sint duis amet do excepteur quis nisi exercitation est consequat labore irure eiusmod voluptate dolore pariatur minim ullamco id officia est eiusmod adipisicing consequat magna occaecat mollit dolor magna reprehenderit sint labore veniam exercitation anim voluptate ipsum cillum ad ea esse velit minim eiusmod consequat aliquip aliqua eu commodo anim eiusmod labore ullamco Lorem non sunt do cupidatat excepteur laboris reprehenderit laboris in sit sit quis tempor reprehenderit esse irure veniam nostrud elit irure reprehenderit amet consectetur ad culpa Lorem occaecat duis dolore pariatur quis magna aliquip occaecat cupidatat dolor incididunt amet duis ex excepteur nostrud aute culpa velit occaecat aute sunt veniam nulla consequat eiusmod laborum exercitation dolor ad tempor dolore irure consectetur esse qui sunt laborum duis est voluptate proident tempor ullamco est exercitation veniam non amet ullamco cupidatat officia incididunt",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "E74.1",
+            "B02.10",
+            "A00.0",
+            "A00.0",
+            "N41",
+            "E74.1",
+            "N41",
+            "H14.9",
+            "A00.0",
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f2706764b4da82dbddb77",
+        "pc_1": 60.176,
+        "pc_2": 98.904,
+        "value": 803.43,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "veniam ipsum officia ipsum laboris ex sunt pariatur duis aliquip magna do magna laboris incididunt fugiat velit in amet in nisi et Lorem ea culpa deserunt commodo consectetur mollit eu consequat voluptate ut culpa nulla velit consequat est exercitation excepteur dolore cillum sunt aute commodo id sint excepteur irure ut voluptate velit nisi cupidatat proident pariatur esse cupidatat nulla incididunt mollit ullamco ipsum aute cupidatat sint eu incididunt tempor est nisi esse aliquip sit duis excepteur fugiat consequat consectetur in qui incididunt excepteur ullamco Lorem elit aliqua cupidatat sunt labore proident qui commodo minim minim laborum aliquip nostrud esse quis proident ullamco officia nulla labore cupidatat labore amet eu qui enim amet proident cupidatat sint mollit eu eiusmod sunt consectetur adipisicing sit Lorem Lorem et ullamco sit deserunt velit pariatur fugiat enim elit est anim dolor nostrud ullamco anim pariatur pariatur ad cillum et nisi exercitation ut culpa veniam ex consectetur sint labore cillum nisi minim id reprehenderit veniam enim elit id aliquip et pariatur qui ipsum nisi veniam deserunt cillum duis est officia laboris laborum Lorem consequat do ullamco cillum occaecat nisi irure ea dolore consequat nostrud magna ea magna consectetur qui duis pariatur non ad officia sit nostrud",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "E74.1",
+            "D53.1A",
+            "G20.3B",
+            "E74.1",
+            "E74.1",
+            "I10",
+            "D53.1A",
+            "D53.1A",
+            "E74.1"
+        ]
+    },
+    {
+        "patient_id": "647f2706ad029a464dd311cb",
+        "pc_1": 94.673,
+        "pc_2": 53.886,
+        "value": 9933.68,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "magna Lorem excepteur nulla esse non adipisicing veniam fugiat do non quis esse voluptate adipisicing exercitation amet cupidatat in voluptate amet magna voluptate id et ea et exercitation fugiat nulla deserunt aliqua nostrud cupidatat adipisicing non labore eiusmod ea ad nulla sint nisi Lorem Lorem fugiat esse commodo adipisicing excepteur minim amet id irure laborum pariatur id velit et nostrud fugiat non occaecat nulla non labore dolor ex officia cillum sint est enim veniam mollit nulla elit tempor amet aliqua laborum nulla ullamco occaecat ullamco officia duis reprehenderit excepteur do dolore laborum nisi deserunt velit ipsum laborum occaecat voluptate commodo in dolore incididunt fugiat excepteur amet cillum laborum exercitation laboris esse commodo in culpa mollit quis id qui ad et fugiat nisi consectetur excepteur irure veniam deserunt dolor labore amet et mollit voluptate ad ea exercitation esse non qui ex laboris do duis dolor laboris duis in in irure irure eu nisi qui adipisicing cillum consequat eu sint est nisi sint reprehenderit reprehenderit ad ipsum est irure aliquip ea ipsum nulla quis ullamco in adipisicing non occaecat qui esse ullamco sunt do deserunt ullamco consequat aliquip quis elit incididunt incididunt adipisicing dolor ipsum amet qui tempor adipisicing deserunt deserunt ipsum",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "C03.40",
+            "I10",
+            "D53.1A",
+            "I10",
+            "H14.9",
+            "C03.40",
+            "N41",
+            "D53.1A"
+        ]
+    },
+    {
+        "patient_id": "647f2706fedb33f3411754e4",
+        "pc_1": 6.369,
+        "pc_2": 86.229,
+        "value": 1318.11,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "occaecat tempor consequat commodo anim excepteur officia tempor ad id reprehenderit sint consectetur nulla fugiat enim ullamco laboris proident est est proident mollit laboris cillum dolor dolor minim culpa nostrud fugiat sint mollit est in ullamco quis et est officia elit proident voluptate adipisicing minim nulla do officia sunt veniam et Lorem in cupidatat non amet nisi in nisi consequat tempor incididunt commodo ea excepteur sunt incididunt commodo ut Lorem labore nisi nulla laboris aliqua enim laboris elit sint eiusmod consequat ut nisi et enim eiusmod enim enim eu sint excepteur ea esse enim proident Lorem duis officia consequat consectetur mollit ex ea aliqua ut minim minim tempor commodo tempor deserunt ad fugiat et sit sit officia cillum ex dolore excepteur do Lorem nostrud adipisicing adipisicing amet duis excepteur magna exercitation aute enim duis culpa quis labore adipisicing ipsum adipisicing laborum officia in ipsum laborum pariatur proident cupidatat deserunt non commodo aute qui dolor excepteur nostrud ullamco enim pariatur tempor cillum proident aute tempor ut labore consequat qui ea eiusmod proident voluptate aute eu eu ipsum tempor laboris in anim aute ipsum amet aliquip esse nisi est voluptate qui aute sunt proident in consectetur id ex fugiat in sunt aliquip",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "B02.10",
+            "I10",
+            "A00.0",
+            "I10",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f2706eb525973761d1a18",
+        "pc_1": 69.576,
+        "pc_2": 44.768,
+        "value": 8447.98,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "magna nulla mollit exercitation tempor eu voluptate magna laborum officia cillum pariatur et sint nisi aute nisi occaecat velit labore ut nostrud ut proident in consequat ea minim elit proident anim enim sunt voluptate anim sunt magna incididunt tempor deserunt id sunt quis culpa sit cupidatat eu ex pariatur veniam cupidatat duis laborum nostrud aute qui quis veniam cillum culpa consectetur aliquip ut aliqua ipsum consectetur consectetur consequat commodo cupidatat deserunt deserunt laborum nisi aliquip nulla non cillum nisi anim duis et deserunt irure eiusmod exercitation ullamco commodo consectetur nisi minim pariatur duis velit esse minim ex est labore eiusmod labore fugiat aute consequat voluptate aliqua irure qui ex cupidatat occaecat ipsum commodo nisi id ad est esse irure enim Lorem non commodo eiusmod fugiat pariatur laborum eu exercitation dolor fugiat reprehenderit veniam nostrud eiusmod eiusmod consequat veniam eiusmod culpa magna cillum incididunt amet elit dolor sunt aliquip officia irure amet magna excepteur duis aliquip enim qui sunt reprehenderit et quis pariatur cillum eiusmod cillum minim aliquip nulla excepteur nulla aliquip officia veniam esse proident nostrud veniam reprehenderit ex eiusmod et quis do eu aliquip velit amet aliqua do nostrud consectetur aute consectetur amet nisi exercitation deserunt nulla culpa proident",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "B02.10",
+            "D53.1A",
+            "A00.0",
+            "C03.40",
+            "B02.10",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f270624e5ea432f663320",
+        "pc_1": 73.543,
+        "pc_2": 39.885,
+        "value": 3155.77,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "duis duis elit proident do reprehenderit et anim proident aliqua anim dolor minim proident adipisicing dolor mollit aliquip id Lorem reprehenderit quis ipsum do eu ea aliquip cupidatat aliqua id amet velit est laboris irure est id ipsum fugiat ex tempor aliquip consectetur velit occaecat laboris pariatur sunt est ex enim tempor incididunt dolor voluptate mollit pariatur deserunt id id ad voluptate culpa fugiat velit nostrud aute nulla pariatur sint adipisicing nostrud labore laboris aliqua incididunt velit veniam Lorem cupidatat enim cupidatat in in mollit id cupidatat incididunt tempor qui ad officia incididunt officia enim consequat ex anim exercitation quis quis ex laborum enim occaecat voluptate nostrud nostrud aliqua esse id aliquip nulla occaecat commodo sint adipisicing elit ex aliquip irure consectetur minim ullamco consequat eu esse ex cillum non sunt elit nostrud id laborum quis in enim velit et esse esse ut sint nostrud Lorem ex occaecat irure cillum pariatur enim exercitation Lorem cillum eu esse sunt eu minim aliqua ea nostrud culpa ullamco ea officia proident exercitation occaecat veniam est id eu occaecat pariatur eiusmod commodo duis in duis nisi eu consequat cillum dolor ullamco magna qui elit incididunt dolor Lorem ad fugiat proident culpa nulla aliquip duis",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "A00.0",
+            "B02.10",
+            "B02.10",
+            "H14.9",
+            "B02.10",
+            "G20.3B"
+        ]
+    },
+    {
+        "patient_id": "647f2706bb5dab5a6db29672",
+        "pc_1": 99.449,
+        "pc_2": 63.177,
+        "value": 7416.05,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "ea ex et sit esse labore eu magna labore anim proident incididunt exercitation mollit mollit laborum non elit eu minim est do ad est minim minim est do laboris ipsum eu sint magna ad labore adipisicing aliquip enim nulla velit duis dolor do cupidatat qui cupidatat occaecat dolor sit commodo ullamco adipisicing incididunt sunt do magna Lorem dolore labore anim cupidatat nisi proident do ullamco quis enim nulla magna id laboris consectetur ex est ut qui id magna est aliquip ut nostrud cupidatat do ad et culpa eu anim incididunt Lorem velit veniam ut sunt officia minim reprehenderit est ipsum irure adipisicing tempor sit in consequat est id aute Lorem culpa labore nisi non nostrud veniam eu laboris amet laboris est pariatur cillum eiusmod duis tempor ex nisi deserunt magna commodo amet non dolore Lorem aliqua deserunt dolor officia cillum laboris sint ipsum irure culpa laboris ex sint tempor officia id pariatur ipsum officia ad velit adipisicing do non occaecat pariatur duis non nostrud eiusmod id anim deserunt aliquip ea excepteur dolor est pariatur adipisicing mollit adipisicing veniam fugiat tempor eiusmod aliquip quis aliquip ullamco id nisi labore culpa nostrud nostrud tempor sint fugiat nisi aute sit fugiat proident incididunt",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "G20.3B",
+            "D53.1A",
+            "I10",
+            "A00.0",
+            "A00.0",
+            "N41",
+            "I10",
+            "H14.9",
+            "D53.1A"
+        ]
+    },
+    {
+        "patient_id": "647f2706f4824cc0028ab51b",
+        "pc_1": 20.027,
+        "pc_2": 51.787,
+        "value": 8484.69,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "aliquip nisi sit commodo dolor esse dolore sint anim laboris tempor amet et pariatur laboris sit ullamco nisi aliquip duis eu officia mollit occaecat nulla velit ipsum veniam dolor eu dolor ea velit culpa eu sint reprehenderit proident enim mollit veniam nulla dolore elit ad nostrud exercitation nisi dolore qui aliquip nulla veniam minim consequat do aute esse duis nostrud non consectetur mollit ad voluptate aute adipisicing tempor dolor et occaecat laborum ex aliquip nostrud magna commodo tempor ea commodo mollit sit exercitation ullamco ut exercitation in tempor ut dolor consectetur tempor consectetur nostrud sunt labore exercitation laborum sint eu labore dolor in non mollit culpa officia proident duis deserunt nostrud aliqua elit tempor in anim voluptate sunt do ullamco excepteur quis mollit labore aliqua proident ullamco sunt ullamco Lorem commodo ut cupidatat eiusmod velit consequat cupidatat irure magna do voluptate consequat velit adipisicing commodo voluptate voluptate elit quis in ullamco ullamco et occaecat eiusmod nulla esse ullamco dolore sit proident officia enim mollit sint cillum tempor velit duis magna consectetur est consequat fugiat deserunt sint culpa consequat sint eiusmod id et do eiusmod laboris proident est sint mollit labore enim reprehenderit ullamco ut nulla ullamco reprehenderit eiusmod nisi labore",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "A00.0",
+            "D53.1A",
+            "E74.1",
+            "E74.1",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f2706d69fddd8173833de",
+        "pc_1": 17.439,
+        "pc_2": 76.331,
+        "value": 3809.02,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "non ex in magna eu pariatur et esse id nisi irure sunt labore ut quis est exercitation cillum quis excepteur irure consequat ea nostrud et nulla occaecat tempor sunt elit deserunt ex elit laboris mollit fugiat irure ipsum laboris aliquip dolor ea non id ea occaecat non dolor esse minim do irure et et Lorem ea sunt ad nisi fugiat do eiusmod veniam aliquip enim ad enim aliqua sit mollit sit veniam adipisicing veniam adipisicing qui ullamco tempor cupidatat sit tempor cupidatat velit anim ut eu magna laboris eiusmod ad aliquip dolore sint non aliquip mollit ipsum pariatur aliqua sit sit laborum dolore sint nulla ullamco irure anim ea proident incididunt ex proident aute duis exercitation non labore eiusmod anim labore ex eu labore reprehenderit id fugiat magna Lorem tempor fugiat anim occaecat aliquip amet proident velit voluptate non sint laboris amet nisi aute qui ipsum sit tempor ea dolor non in consequat aliquip esse est eu sit culpa veniam nulla cillum qui sunt proident occaecat ipsum proident magna exercitation laborum nisi ullamco excepteur culpa ut cupidatat cillum enim ut culpa reprehenderit ullamco dolore occaecat dolor pariatur amet sint laborum voluptate commodo eiusmod tempor magna pariatur cupidatat aliqua ipsum tempor",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "I10",
+            "N41",
+            "D53.1A",
+            "E74.1",
+            "E74.1",
+            "N41",
+            "I10",
+            "A00.0",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f27060575887cf08ca657",
+        "pc_1": 55.162,
+        "pc_2": 89.023,
+        "value": 4459.95,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "non proident adipisicing dolor deserunt duis Lorem excepteur consectetur ullamco elit qui exercitation laboris quis ad consectetur labore fugiat dolor nisi velit adipisicing in aliqua excepteur reprehenderit eiusmod est do aliquip aliqua est irure aute voluptate minim voluptate id pariatur aliqua tempor nulla duis esse tempor aliqua veniam ut non duis aute reprehenderit eu ea magna pariatur ullamco cillum deserunt deserunt excepteur reprehenderit velit Lorem velit nulla incididunt id labore officia eu ullamco aliqua anim culpa ad cupidatat ipsum cupidatat nulla mollit ullamco aliqua laboris ut sit nisi elit culpa excepteur esse elit consectetur ut proident cupidatat sit eiusmod magna magna fugiat in ullamco occaecat Lorem pariatur proident consectetur magna elit proident exercitation proident dolore ut occaecat incididunt ex ipsum et adipisicing occaecat eiusmod exercitation consectetur deserunt proident ipsum proident nisi est sint nisi id sunt amet voluptate elit reprehenderit velit culpa culpa fugiat ea reprehenderit et ad dolore veniam ad laboris nostrud sint Lorem ea ullamco amet sint deserunt consequat velit dolore elit nulla aliquip qui adipisicing ad in incididunt sit dolore nostrud duis proident non ea nostrud minim voluptate in ipsum excepteur aute in id dolor occaecat duis consectetur veniam labore consequat ea et voluptate in Lorem ad",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "E74.1",
+            "N41",
+            "N41",
+            "D53.1A",
+            "E74.1"
+        ]
+    },
+    {
+        "patient_id": "647f27065420aafe1a786d01",
+        "pc_1": 11.349,
+        "pc_2": 1.881,
+        "value": 9414.75,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "occaecat aute velit eu id amet ullamco do enim id amet anim duis elit laborum nisi eiusmod excepteur eu anim ex proident aliqua aliqua veniam nisi commodo cupidatat cillum consequat eiusmod non ea dolore voluptate tempor qui ipsum fugiat consectetur laborum mollit in laborum dolore occaecat aute mollit nostrud occaecat qui excepteur nulla dolor laborum qui est duis sint ullamco nisi mollit nostrud do cupidatat officia aliquip do duis proident pariatur laborum proident ea est consequat velit labore est occaecat elit sit ea magna aute veniam enim culpa officia et eiusmod voluptate eiusmod nostrud esse ad laboris amet minim nisi amet occaecat elit pariatur sit do aliqua minim laboris incididunt esse duis officia labore et exercitation magna magna duis enim consequat aliquip eiusmod ullamco amet ea id amet tempor adipisicing Lorem sint labore duis adipisicing laborum nisi culpa ad est enim sit consequat dolore ipsum Lorem velit do Lorem minim laboris enim fugiat culpa ipsum nostrud sint cillum labore fugiat eu labore adipisicing quis ad ad proident ipsum quis laboris tempor laboris consequat proident commodo dolore est do voluptate commodo tempor Lorem voluptate tempor irure occaecat veniam est sit proident enim mollit minim ad deserunt consequat sint ex commodo sint",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "A00.0",
+            "N41",
+            "N41",
+            "D53.1A",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f2706f92eec8d157c9f94",
+        "pc_1": 58.021,
+        "pc_2": 34.829,
+        "value": 2968.48,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "laborum eiusmod id id mollit magna excepteur non sint do officia minim voluptate ipsum consectetur veniam consectetur consectetur in est ut et ex deserunt occaecat aliquip quis incididunt laboris nostrud duis incididunt quis dolor nostrud do amet officia tempor veniam velit duis cillum sit tempor amet non Lorem consectetur laboris commodo non ullamco velit laborum amet duis elit incididunt reprehenderit ullamco reprehenderit consectetur cillum nulla eiusmod ad nulla id quis duis nostrud amet velit Lorem et cillum excepteur in ut sit irure nostrud duis ea voluptate velit sint cillum anim id quis esse commodo consequat minim commodo anim consectetur incididunt ex ad anim do qui ipsum qui ullamco esse laboris esse amet nisi aliquip culpa aute ad labore tempor commodo occaecat nisi ea est enim dolor ea et velit excepteur adipisicing sint ex in sint enim et voluptate enim nisi esse esse irure nisi do voluptate ad pariatur dolore aliqua laborum eiusmod adipisicing esse ex nisi elit laboris cillum anim minim labore aute magna nulla proident reprehenderit aute cupidatat aliquip exercitation pariatur nisi est aute esse laborum duis elit id ipsum id incididunt reprehenderit irure pariatur occaecat magna reprehenderit esse elit qui do cupidatat enim deserunt tempor sunt proident laboris",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "B02.10",
+            "D53.1A",
+            "D53.1A",
+            "E74.1",
+            "A00.0",
+            "N41",
+            "N41",
+            "D53.1A",
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f270695f9a4439f93dc5e",
+        "pc_1": 83.063,
+        "pc_2": 50.428,
+        "value": 8207.67,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9, I10",
+        "discharge": "irure culpa sint consequat sunt elit nulla qui adipisicing consectetur pariatur adipisicing sint ipsum excepteur voluptate veniam sit dolor duis sint consequat velit nulla mollit in sint sunt mollit mollit laboris do elit dolor commodo commodo cupidatat nostrud labore velit occaecat commodo ad in in adipisicing nulla commodo laboris et pariatur voluptate amet dolor id consequat voluptate et deserunt ipsum eu eu laborum nulla ut sint aute nulla ad exercitation irure tempor ipsum ad commodo ex est ut irure eiusmod in tempor enim minim do ad deserunt reprehenderit cillum dolor labore enim sit irure elit irure in dolor ipsum velit eu nulla adipisicing id quis mollit laborum esse occaecat cupidatat dolor sunt sit anim ex cupidatat qui nulla laborum deserunt dolor sint velit reprehenderit id exercitation duis pariatur tempor velit laborum est Lorem exercitation fugiat esse culpa esse Lorem consequat ut commodo cillum qui excepteur quis ut exercitation aliquip qui eu Lorem aliqua laboris voluptate fugiat magna aliquip occaecat Lorem eiusmod in labore quis eiusmod incididunt irure esse qui commodo occaecat nulla aute sit non ullamco magna esse duis Lorem esse tempor incididunt minim laboris non aute irure laboris ut cupidatat veniam dolor excepteur ut et nostrud dolore minim dolor",
+        "principal_diag": "Type 2 Diabetes without complications",
+        "codes": [
+            "G20.3B",
+            "N41",
+            "A00.0",
+            "E74.1",
+            "A00.0",
+            "E74.1",
+            "C03.40",
+            "E74.1",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f270645a79bfefe9e47f1",
+        "pc_1": 40.771,
+        "pc_2": 49.948,
+        "value": 9449.44,
+        "is_index": false,
+        "codes_string": "A00.0, B02.10",
+        "discharge": "laboris nulla non et irure pariatur nisi et labore mollit laboris consectetur ad ad officia sint nisi nisi et excepteur consequat aliquip consectetur velit in ex ea ipsum ullamco in duis aliquip occaecat et proident consectetur ex ea incididunt sunt voluptate reprehenderit consequat anim magna enim dolore eiusmod ipsum commodo qui commodo culpa non ullamco eiusmod mollit culpa dolore in sit pariatur ullamco deserunt ut anim commodo sunt laborum cillum enim duis ipsum mollit ea reprehenderit occaecat duis ea voluptate sint veniam sint nostrud ea dolore duis est magna et non dolore officia consectetur magna duis sunt nostrud do eiusmod dolor velit dolore eiusmod esse dolore cillum reprehenderit ea dolore dolor ullamco velit occaecat culpa minim ad ad proident sit duis ipsum nulla voluptate et anim esse consequat aliquip in incididunt adipisicing et ex aliquip id sit est pariatur ullamco proident officia velit dolore ullamco ad nostrud anim veniam nulla consequat ut reprehenderit culpa irure ullamco enim dolore qui id nisi incididunt veniam pariatur nisi occaecat dolore consequat ut commodo irure amet veniam dolore aute sint id amet sit qui occaecat nisi consequat minim occaecat qui sit ut pariatur commodo dolor ipsum eu tempor enim sunt elit mollit adipisicing sint",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "D53.1A",
+            "G20.3B",
+            "A00.0",
+            "N41",
+            "A00.0"
+        ]
+    },
+    {
+        "patient_id": "647f2706ada8ce8a54f8c959",
+        "pc_1": 15.591,
+        "pc_2": 66.644,
+        "value": 7759.31,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "nulla esse non qui nisi sint est tempor est aliquip quis ex reprehenderit dolore elit sint sunt est sunt laboris nulla do ad dolore consequat dolore id magna mollit reprehenderit veniam incididunt magna ea minim pariatur aliquip enim nulla pariatur incididunt officia quis laborum duis exercitation eu dolore ea velit dolore pariatur in officia eu magna mollit reprehenderit magna ea ullamco occaecat occaecat laborum tempor labore veniam excepteur minim consequat laborum ullamco do occaecat irure dolore Lorem occaecat laboris officia ipsum sit eiusmod labore ea ex esse adipisicing exercitation dolor commodo non minim Lorem ad eu dolore in reprehenderit nostrud irure cupidatat eiusmod dolor excepteur incididunt nisi laboris consectetur non do officia proident elit sit amet duis incididunt ex officia est est minim enim pariatur irure cillum reprehenderit ipsum ad et qui exercitation sit sint excepteur occaecat laboris incididunt veniam esse et eu non qui eu enim ex duis incididunt voluptate ea culpa incididunt anim est labore magna veniam magna non officia reprehenderit proident fugiat tempor nisi consectetur exercitation proident sint id laboris id excepteur anim dolor non elit ipsum nostrud ex occaecat nostrud esse aliqua duis irure culpa proident id labore enim dolor deserunt aute in enim eiusmod laboris",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "I10"
+        ]
+    },
+    {
+        "patient_id": "647f270616718265e9dde9aa",
+        "pc_1": 50.007,
+        "pc_2": 59.979,
+        "value": 2702.02,
+        "is_index": false,
+        "codes_string": "E74.1, G20.3B,H14.9",
+        "discharge": "aute excepteur adipisicing non dolor adipisicing labore et fugiat aliqua exercitation exercitation nulla anim nostrud reprehenderit adipisicing officia ex ad consectetur culpa quis ea sunt Lorem in elit consectetur do nisi enim sunt voluptate Lorem mollit nulla magna incididunt qui sit minim consectetur incididunt esse tempor sint fugiat cillum ut magna ex anim aliqua sunt sunt cillum ullamco amet deserunt eiusmod veniam laboris dolore ipsum quis deserunt magna sit labore nisi ut aliqua proident officia consequat et sit proident adipisicing occaecat ea aliqua voluptate do enim consequat labore officia velit nisi quis velit culpa culpa proident duis officia eiusmod ad id elit amet consectetur esse veniam excepteur cillum duis esse officia dolore eiusmod dolor laboris do pariatur qui voluptate nulla voluptate duis id officia ullamco occaecat ex minim sunt non aute in do ea sunt ipsum sunt esse magna officia nostrud do in aliqua fugiat nulla reprehenderit est excepteur Lorem ullamco occaecat nisi et velit sint non aute in cupidatat ipsum sint exercitation proident enim labore cupidatat proident amet fugiat elit cupidatat sunt consequat velit irure ad ea anim reprehenderit id aliquip minim non ipsum consectetur magna aute minim elit velit voluptate voluptate occaecat pariatur Lorem voluptate nisi irure ea",
+        "principal_diag": "Type 2 diabetes w complications",
+        "codes": [
+            "E74.1",
+            "H14.9",
+            "C03.40",
+            "C03.40",
+            "E74.1",
+            "E74.1",
+            "E74.1",
+            "I10",
+            "A00.0"
+        ]
+    },
+    {
+        "patient_id": "647f2706b03e9e35f9c12d69",
+        "pc_1": 83.692,
+        "pc_2": 64.329,
+        "value": 5716.93,
+        "is_index": false,
+        "codes_string": "G20.3B,H14.9, I10",
+        "discharge": "qui proident occaecat amet ullamco et occaecat sunt consequat exercitation in laborum reprehenderit ut dolor qui consequat reprehenderit do culpa sint nulla aute ex cupidatat adipisicing incididunt aliquip ea ut cupidatat pariatur amet do ex irure et aliqua dolore labore sint veniam id culpa ad aute exercitation tempor non nisi aliquip aliquip ut duis non pariatur in ullamco elit excepteur nisi cupidatat culpa commodo mollit qui aliqua dolore eiusmod sint minim culpa eu ullamco commodo mollit labore elit incididunt tempor est aliquip anim eu amet adipisicing mollit laboris do consequat consectetur excepteur magna id laboris sit ad labore irure sunt aute in ad irure sit exercitation duis enim aute nisi adipisicing adipisicing sint do minim duis in consequat sint voluptate veniam enim tempor qui irure reprehenderit enim incididunt culpa quis nulla nostrud irure esse velit qui nisi tempor officia dolor consequat cupidatat et magna et ullamco consequat sit ea velit duis eiusmod qui aute aliquip proident anim dolor occaecat sint ex culpa commodo anim cupidatat ad consequat culpa incididunt tempor nisi sunt voluptate aliquip veniam dolor Lorem veniam ullamco et fugiat proident id voluptate occaecat labore sit tempor culpa commodo do voluptate velit non officia pariatur officia voluptate voluptate aliqua",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "H14.9",
+            "E74.1",
+            "G20.3B",
+            "H14.9"
+        ]
+    },
+    {
+        "patient_id": "647f27063f39f6fc75fe2578",
+        "pc_1": 20.906,
+        "pc_2": 40.362,
+        "value": 1912.97,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "ad elit eu deserunt sint enim deserunt nostrud cillum laboris officia veniam id ex eiusmod fugiat duis fugiat id officia proident excepteur non ipsum ad est anim ad cillum aliquip velit labore aliquip cupidatat nisi consequat elit in Lorem Lorem reprehenderit ipsum qui esse pariatur enim occaecat nulla anim dolore mollit sit tempor anim nulla sunt id sit duis officia fugiat nulla cillum voluptate do consectetur amet amet sit proident laboris qui do aliqua pariatur et voluptate laborum labore dolor nisi sint eiusmod ea do id velit minim culpa mollit ad eu id aute dolore sit consectetur Lorem eu ea quis aliqua nostrud do labore in amet ipsum eu deserunt quis amet laborum amet et voluptate ut ullamco sit culpa proident tempor eiusmod laborum officia in ipsum velit anim et laboris culpa sit ad aliqua et enim duis consectetur anim pariatur qui do dolore pariatur mollit enim culpa labore excepteur labore sit aliquip deserunt voluptate excepteur exercitation ullamco do occaecat ullamco voluptate culpa aliquip incididunt irure duis adipisicing tempor irure quis irure reprehenderit Lorem sit labore ut do excepteur ut laboris sit amet reprehenderit Lorem pariatur consequat voluptate magna id in exercitation consectetur dolor elit nostrud et veniam non ipsum",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "N41",
+            "N41",
+            "N41"
+        ]
+    },
+    {
+        "patient_id": "647f27063476de5f637720dc",
+        "pc_1": 66.887,
+        "pc_2": 14.313,
+        "value": 9197.68,
+        "is_index": false,
+        "codes_string": "D53.1A, E74.1B, H14.9, I10, N22, M14.3",
+        "discharge": "qui est ullamco ipsum proident ex velit incididunt do officia irure ipsum esse tempor sit nulla sint officia occaecat pariatur culpa excepteur nisi qui adipisicing reprehenderit cupidatat officia Lorem velit commodo aliquip consequat laborum anim occaecat voluptate sunt duis esse irure proident et esse magna minim dolore laborum nostrud proident enim aute anim anim Lorem voluptate ad labore laboris tempor ea est aute Lorem eu duis proident Lorem ullamco labore incididunt quis qui aliqua nostrud nostrud tempor tempor ea excepteur officia officia et veniam irure ipsum qui cupidatat duis sunt est quis culpa proident ad officia non exercitation magna incididunt dolor anim commodo eu in incididunt qui commodo eiusmod amet officia dolor minim tempor laborum non laborum quis cillum sit mollit consequat ex velit consectetur officia sunt nulla laborum anim veniam aute quis ex ea enim in qui proident cillum esse exercitation reprehenderit irure occaecat sunt adipisicing duis quis cupidatat mollit consectetur cillum consectetur dolore sit ea irure nulla duis officia magna consequat dolor cillum tempor veniam aliqua consectetur voluptate ut non dolor dolor adipisicing esse ex sunt laborum mollit pariatur mollit duis nulla sunt ut ipsum eiusmod elit veniam amet sunt amet veniam commodo ipsum sit aliqua nisi do",
+        "principal_diag": "Heart Failure",
+        "codes": [
+            "A00.0",
+            "N41",
+            "G20.3B",
+            "A00.0",
+            "B02.10",
+            "N41",
+            "D53.1A",
+            "C03.40",
+            "G20.3B"
+        ]
+    }
+]
